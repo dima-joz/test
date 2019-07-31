@@ -1,3 +1,3 @@
-print("helo")
-print("so it goes")
-prosto hellow
+print("helo");
+print("so it goes");
+prosto hellow;
