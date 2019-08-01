@@ -1,5 +1,6 @@
-print("helo")
-print("so it goes")
-prosto hellow
-advanced hellow
-more advanced hellow
+
+print("helo");
+print("so it goes");
+prosto hellow;
+advanced hellow;
+more advanced hellow;
